@@ -286,9 +286,11 @@ button:hover:focus {
   border-radius: 50%;
   background-color: transparent;
 }
+
 .icon-btn:hover {
-  background-color: #f8f8f8;
-}
+ opacity: 0.9;
+ }
+
 .floating-action-btn {
   display: flex;
   align-content: center;
