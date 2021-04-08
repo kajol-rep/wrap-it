@@ -307,15 +307,14 @@ button:hover:focus {
  opacity: 0.9;
  }
 
-.floating-action-btn {
+ .floating-action-btn {
   display: flex;
   align-content: center;
   position: absolute;
-  padding: 1rem;
+  padding: 0.5rem;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   z-index: 100;
-  background-color: #2563eb;
-  border: solid 2px #2563eb;
+  border: none;
 }
 .round-btn {
   border-radius: 50%;
