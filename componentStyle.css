@@ -194,32 +194,10 @@
 }
 
 /* text-utilities */
-@media screen and (min-width: 768px) {
-.heading {
-  font-size: 4rem;
-}
-.smallest-text {
-  font-size: 0.7rem;
-}
-.small-text {
-  font-size: 1rem;
-}
-.medium-text {
-  font-size: 2rem;
-}
-.large-text {
-  font-size: 3rem;
-}
-}
+
 @media screen and (min-width: 320px) {
   .heading {
-    font-size: 3rem;
-  }
-  .smallest-text {
-    font-size: 0.7rem;
-  }
-  .small-text {
-    font-size: 1rem;
+    font-size: 2.5rem;
   }
   .medium-text {
     font-size: 1.5rem;
@@ -228,6 +206,23 @@
     font-size: 2rem;
   }
 }
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 4rem;
+  }
+  .medium-text {
+    font-size: 2rem;
+  }
+  .large-text {
+    font-size: 3rem;
+  }
+  }
+  .smallest-text {
+    font-size: 0.7rem;
+  }
+  .small-text {
+    font-size: 1rem;
+  }
 .bold-text {
   font-weight: 700;
 }
