@@ -196,19 +196,22 @@
 /* text-utilities */
 
 .heading {
-  font-size: 40px;
+  font-size: 4rem;
 }
 .smallest-text {
-  font-size: 15px;
+  font-size: 0.7rem;
 }
 .small-text {
-  font-size: 25px;
+  font-size: 1rem;
 }
 .medium-text {
-  font-size: 30px;
+  font-size: 2rem;
+}
+.large-text {
+  font-size: 3rem;
 }
 .bold-text {
-  font-weight: 800;
+  font-weight: 700;
 }
 .text-center {
   text-align: center;
