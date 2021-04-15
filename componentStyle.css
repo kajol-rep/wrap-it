@@ -380,7 +380,7 @@ button:hover:focus {
 /* Modal */
 .modal {
   position: fixed;
-  z-index: 10;
+  z-index: 100;
   padding-top: 5rem;
   left: 0;
   top: 0;
