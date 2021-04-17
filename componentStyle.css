@@ -393,7 +393,7 @@ button:hover:focus {
   margin: auto;
   padding: 1rem;
   border-radius: 3px;
-  width: 320px;
+  width: 280px;
 }
 .modal-flex-row {
   display: flex;
